@@ -9,7 +9,12 @@
   <h1>Ruben Gerits</h1>
 
   <p>
-    Check out my projects on  <a href="https://github.com/gerits" target="_blank" rel="noreferrer">Github</a>!
+    Check out my projects on <a href="https://github.com/gerits" target="_blank" rel="noreferrer">Github</a>!
+  </p>
+
+  <p>
+    <a href="mailto:hello@rubengerits.be" target="_blank" rel="noreferrer"><i class="fa-solid fa-envelope"></i></a>&nbsp;
+    <a href="https://www.linkedin.com/in/rubengerits/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
   </p>
 
 </main>
@@ -18,6 +23,6 @@
   .logo {
     height: 15em;
     padding: 1.5em;
-    filter: drop-shadow(0 0 2em #ffffff88);
+    filter: drop-shadow(0 0 2em #ffffff3a);
   }
 </style>
