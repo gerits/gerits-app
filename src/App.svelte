@@ -13,7 +13,7 @@
   </p>
 
   <p>
-    <a href="mailto:hello@rubengerits.be" target="_blank" rel="noreferrer"><i class="fa-solid fa-envelope"></i></a>&nbsp;
+    <a href="mailto:ruben@gerits.dev" target="_blank" rel="noreferrer"><i class="fa-solid fa-envelope"></i></a>&nbsp;
     <a href="https://www.linkedin.com/in/rubengerits/" target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
   </p>
 
