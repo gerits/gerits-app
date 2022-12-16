@@ -1,6 +1,6 @@
-# rubengerits.be
+# gerits.dev
 
-Personal website hosted on https://www.rubengerits.be.
+Personal website hosted on https://www.gerits.dev.
 
 ## Building the project
 
