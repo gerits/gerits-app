@@ -3,7 +3,7 @@
 </script>
 
 <main class="h-screen flex items-center justify-center">
-    <div class="absolute left-1/2 z-10 mt-5 flex-col w-screen max-w-max -translate-x-1/2 px-4">
+    <div class="absolute left-1/2 flex-col w-screen max-w-max -translate-x-1/2">
         <div class="w-screen max-w-lg flex flex-col sm:flex-row rounded-3xl bg-white text-sm leading-6 p-6">
             <div class="sm:basis-1/2 text-center">
                 <img class="h-48 m-6 inline" src={rubenLogo} alt="Ruben Gerits"/>
