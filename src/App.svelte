@@ -3,7 +3,7 @@
     import Projects from './components/Projects.svelte';
 </script>
 
-<main class="h-screen flex items-center justify-center bg-green-light">
+<main class="flex justify-center pt-12">
     <div class="absolute left-1/2 flex-col w-screen max-w-max -translate-x-1/2">
         <div class="w-screen max-w-lg rounded-3xl bg-white text-sm leading-6 p-6">
             <Introduction/>
