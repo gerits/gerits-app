@@ -1,16 +1,15 @@
 <script>
-    import rubenLogo from '../assets/ruben.svg';
+    import family from '../assets/family.svg';
 </script>
 
-<introduction class="flex flex-col sm:flex-row">
-    <div class="sm:basis-1/2 text-center">
-        <img class="h-48 m-6 inline" src={rubenLogo} alt="Ruben Gerits"/>
+<introduction>
+    <div class="text-center">
+        <img alt="Family" class="w-max m-6" src={family}/>
     </div>
 
-    <div class="basis-full sm:basis-1/2 text-center">
-        <h1 class="text-4xl font-bold mt-12 mb-12 text-green-dark">Ruben Gerits</h1>
-        <p>
-            Check out my projects on <a href="https://github.com/gerits" target="_blank" rel="noreferrer">Github</a>!
-        </p>
+    <div class="text-center">
+        <h1 class="text-4xl font-bold mt-6 text-green-dark">Ruben Gerits</h1>
+        <p>and family!</p>
     </div>
 </introduction>
+
