@@ -2,6 +2,10 @@
 
 Personal website hosted on https://www.gerits.dev.
 
+## Preview
+
+![Website Screenshot](screenshot.png)
+
 ## Building the project
 
 To get started install all dependencies of the project using `npm ci`.
