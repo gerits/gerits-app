@@ -89,8 +89,8 @@
         
         <!-- Typography block -->
         <div class="text-center flex flex-col items-center relative select-none">
-            <h1 class="text-5xl sm:text-6xl md:text-7xl font-light tracking-tighter text-black uppercase leading-none select-text">
-                RUBEN <span class="font-black">GERITS</span>
+            <h1 class="font-syncopate text-5xl sm:text-6xl md:text-7xl font-normal tracking-normal text-black uppercase leading-none select-text">
+                RUBEN <span class="font-bold">GERITS</span>
             </h1>
             <div class="font-delafield text-5xl sm:text-6xl md:text-7xl text-[#829980] lowercase -mt-2 sm:-mt-3 md:-mt-4 select-text tracking-wide z-20 relative">
                 & family
