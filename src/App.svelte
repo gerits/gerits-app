@@ -41,6 +41,7 @@
 
             repositories = data
                 .filter((repository: any) => repository.fork === false)
+                .filter((repository: any) => repository.archived === false)
                 .map((repository: any) => {
                     return {
                         description: repository.description,
