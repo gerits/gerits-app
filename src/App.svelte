@@ -41,13 +41,13 @@
 
             repositories = data
                 .filter((repository: any) => repository.fork === false)
-                .filter((repository: any) => repository.homepage != null)
+                .filter((repository: any) => repository.homepage != null && repository.homepage !== '')
                 .map((repository: any) => {
                     return {
                         description: repository.description,
                         language: repository.language,
                         name: repository.name,
-                        url: repository.html_url
+                        url: repository.homepage
                     } as Repository;
                 });
         } catch (err) {
